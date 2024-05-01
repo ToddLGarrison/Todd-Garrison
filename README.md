@@ -10,7 +10,7 @@ Having recently graduated from the 18 week Launch Academy Bootcamp I am excited 
 * 🖥️  See my portfolio at (http://github.com/ToddLGarrison?tab=repositories)
 * ✉️  You can contact me at [toddlgarrison@gmail.com](mailto:toddlgarrison@gmail.com)
 * 🚀  I'm currently working on [a travel app Sea to See where users can plan an itinerary for an upcoming trip](http://sea-to-see.herokuapp.com/)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning LangChain
 * ⚡  I'm open to collaborating on any and all open-source projects, group projects or contracting work!
 * ⚡  I started a hot sauce company [SourceFire Sauce](https://www.sourcefiresauce.com/)
 
